@@ -1,6 +1,6 @@
 ### Hello 👋
 ![](./profile-3d-contrib/profile-night-view.svg)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=o1hitman1o&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=o1hitman1o&show_icons=true&include_all_commits=true&theme=dark_github)
 <!--
 **o1hitman1o/o1hitman1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
